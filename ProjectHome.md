@@ -1,0 +1,2 @@
+淘宝秒杀外挂
+javascript:void((function(){var%20element=document.createElement('script');element.setAttribute('src','http://crack-taobao.googlecode.com/svn/trunk/CrackTaobao.js');document.body.appendChild(element);})())
